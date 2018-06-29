@@ -1,8 +1,8 @@
-# Puszka-v4 <br>
-Part list:
-SMD Resistors 0805 or 1206
-Capacitors SMD 0805 or 1206
-Connectors J1, J7 - KF301-2P 
+# Puszka-v4
+Part list:  
+SMD Resistors 0805 or 1206  
+Capacitors SMD 0805 or 1206  
+Connectors J1, J7 - KF301-2P  
 Conenctors J2,J3,J5,J6 (J4 missing on schema) - Goldpin
 U2 - MCP1825T-3302E/DC
 U3 ESP8266-12S (ESP8266-12,ESP8266-07, ESP8266-07S)

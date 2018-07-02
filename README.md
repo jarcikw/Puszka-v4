@@ -5,7 +5,7 @@ R3,R5,R7,R10  - 10K (SMD 0805 or 1206)
 C1,C4 - 1uF (SMD 0805 or 1206)  
 C2,C3 - 100nF (SMD 0805 or 1206) 
 C6 - 100uF/4V R173-01 (A 3216  SMD or equivalent)  
-C3 - 100uF/6,3V R172-07 (A 3216  SMD or equivalent) 
+C3 - 100uF/6,3V R172-07 (A 3216  SMD or equivalent)  
 D1,D2 - 1N4148 SMD (SMD LL4148)  
 U1 - TSP-05 , HLK-PM01  
 U2 - MCP1825T-3302E/DC  

@@ -12,7 +12,7 @@ U1 - TSP-05 , HLK-PM01
 U2 - MCP1825T-3302E/DC  
 U3 ESP8266-12S (ESP8266-12,ESP8266-07, ESP8266-07S)  
 K1, K2 - Relay JQC-3FF-005-1ZS  
-Varistor -  7N 431K (430V,275VAC)  
+Varistor -  10N 431K (430V,275VAC)  
 SW1 - Tact Switch 3x6mm SMD, h=5mm  
 Connectors J1,J7 - KF301-2P  (ARK-2)  
 Conenctors J2,J3,J5,J6 - Goldpin  
